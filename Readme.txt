@@ -1,0 +1,2 @@
+Desafio DOM que toma datos de la edad de dos inviduos desde el HTML, los almacena en un objeto y seguidamente ejecuta 
+el promedio de ambas edades, para luego devolver en el HMTL el resultado obtenido.
